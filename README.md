@@ -1,2 +1,6 @@
 # Coursework
 This repository contains programming assignments and practice problems completed as part of a course on Python programming and computational thinking. The purpose of the repository is to demonstrate the implementation of fundamental programming concepts such as functions, loops, recursion, and mathematical algorithms, while building problem-solving skills through practical coding exercises.
+
+Aditya Johri
+2025BSDSAI008
+BS-DSAI
